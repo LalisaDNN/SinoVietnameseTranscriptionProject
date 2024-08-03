@@ -1,0 +1,20 @@
+model_config:
+  # google-bert/bert-base-chinese
+  # google-bert/bert-base-multilingual-cased
+  bert_model: google-bert/bert-base-chinese
+  hidden_ff_dim: 512
+  model_hidden_dim: 256
+  large_hidden_classification_head_dim: 256
+  small_hidden_classification_head_dim: 128
+  max_num_spellings: 7
+  num_spelling_threshold: 3
+  train_bert_param: True
+
+data_config:
+  batch_size: 16
+  max_len: 512
+
+training_config:
+  num_epochs: 11
+  learning_rate: 0.00001
+  model_load_path: Config_Test\saved_model\sivi_model_epoch_19.pt
