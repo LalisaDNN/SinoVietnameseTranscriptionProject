@@ -1,0 +1,5 @@
+# ignore ALL .log files
+*.pt
+
+# ignore ALL files in ANY directory named temp
+saved_model/

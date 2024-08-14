@@ -68,7 +68,7 @@ def main():
         
 
 class AddNorm(nn.Module):
-    def __init__(self, norm_shape: int, dropout=0.3):
+    def __init__(self, norm_shape: int, dropout=0.2):
         super().__init__()
         self.dropout = nn.Dropout(dropout)
         self.ln = nn.LayerNorm(norm_shape)
@@ -77,29 +77,32 @@ class AddNorm(nn.Module):
         return self.ln(self.dropout(Y) + X)
     
 class FeedForwardNetwork(nn.Module):
-    def __init__(self, input_dim: int, hidden_ff_dim: int, dropout=0.3):
+    def __init__(self, input_dim: int, hidden_ff_dim: int, dropout=0.2):
         super().__init__()
         self.linear1 = nn.Linear(input_dim, hidden_ff_dim)
         self.dropout = nn.Dropout(dropout)
+        self.relu1 = nn.ReLU()
         self.linear2 = nn.Linear(hidden_ff_dim, input_dim)
 
     def forward(self, x):
-        return self.linear2(self.dropout(torch.relu(self.linear1(x))))
+        return self.linear2(self.dropout(self.relu1(self.linear1(x))))
     
 class ShrinkNorm(nn.Module):
-    def __init__(self, input_dim: int, output_dim: int, dropout=0.3):
+    def __init__(self, input_dim: int, shrink_norm_hidden: int, output_dim: int, dropout=0.2):
         super().__init__()
         self.dropout = nn.Dropout(dropout)
-        self.linear = nn.Linear(input_dim, output_dim)
+        self.linear1 = nn.Linear(input_dim, shrink_norm_hidden)
+        self.relu1 = nn.ReLU()
+        self.linear2 = nn.Linear(shrink_norm_hidden, output_dim)
         self.ln = nn.LayerNorm(output_dim)
 
     def forward(self, x):
-        return self.ln(self.dropout(self.linear(x)))
+        return self.ln(self.linear2(self.dropout(self.relu1(self.linear1(x)))))
     
 class SinoVietnameseTranslator(nn.Module):
     def __init__(self, tokenizer, base_model, vocab, hidden_ff_dim=512, model_hidden_dim=512, 
                  large_hidden_classification_head_dim=256, small_hidden_classification_head_dim=128,
-                 max_num_spellings=7, num_spelling_threshold=3, train_bert_param=True):
+                 shrink_norm_hidden=512, max_num_spellings=7, num_spelling_threshold=3, train_bert_param=True, dropout=0.2):
         super(SinoVietnameseTranslator, self).__init__()
         self.tokenizer = tokenizer
         self.bert = base_model
@@ -109,9 +112,9 @@ class SinoVietnameseTranslator(nn.Module):
         for param in self.bert.parameters():
             param.requires_grad = train_bert_param
         
-        self.shrink_norm = ShrinkNorm(self.bert.config.hidden_size, model_hidden_dim)
-        self.feed_forward = FeedForwardNetwork(model_hidden_dim, hidden_ff_dim)
-        self.add_norm = AddNorm(model_hidden_dim)
+        self.shrink_norm = ShrinkNorm(self.bert.config.hidden_size,shrink_norm_hidden, model_hidden_dim, dropout)
+        self.feed_forward = FeedForwardNetwork(model_hidden_dim, hidden_ff_dim, dropout)
+        self.add_norm = AddNorm(model_hidden_dim, dropout)
         
         self.classification_heads = nn.ModuleDict()
         for sino_word, viet_spellings in self.vocab.items():
@@ -120,7 +123,7 @@ class SinoVietnameseTranslator(nn.Module):
                 self.classification_heads[sino_word] = nn.Sequential(
                     nn.Linear(model_hidden_dim, small_hidden_classification_head_dim),
                     nn.ReLU(),
-                    nn.Dropout(0.3),
+                    nn.Dropout(dropout),
                     nn.Linear(small_hidden_classification_head_dim, num_spellings),
                     nn.Softmax(dim=-1)
                 )
@@ -129,7 +132,7 @@ class SinoVietnameseTranslator(nn.Module):
                 self.classification_heads[sino_word] = nn.Sequential(
                     nn.Linear(model_hidden_dim, large_hidden_classification_head_dim),
                     nn.ReLU(),
-                    nn.Dropout(0.3),
+                    nn.Dropout(dropout),
                     nn.Linear(large_hidden_classification_head_dim, num_spellings),
                     nn.Softmax(dim=-1)
                 )
@@ -255,18 +258,20 @@ def load_model(config, base_vocab, sino_viet_words):
     # Model config
     hidden_ff_dim = config['model_config']['hidden_ff_dim']
     model_hidden_dim = config['model_config']['model_hidden_dim']
+    shrink_norm_hidden = config['model_config']['shrink_norm_hidden']
     large_hidden_classification_head_dim = config['model_config']['large_hidden_classification_head_dim']
     small_hidden_classification_head_dim = config['model_config']['small_hidden_classification_head_dim']
     max_num_spellings = config['model_config']['max_num_spellings']
     num_spelling_threshold = config['model_config']['num_spelling_threshold']
     train_bert_param = config['model_config']['train_bert_param']
+    dropout = config['model_config']['dropout']
 
-    model = SinoVietnameseTranslator(base_tokenizer, base_model, base_vocab, 
-                                    hidden_ff_dim=hidden_ff_dim, model_hidden_dim=model_hidden_dim,
+    model = SinoVietnameseTranslator(base_tokenizer, base_model, base_vocab, hidden_ff_dim=hidden_ff_dim, 
+                                    model_hidden_dim=model_hidden_dim, shrink_norm_hidden=shrink_norm_hidden,
                                     large_hidden_classification_head_dim=large_hidden_classification_head_dim,
                                     small_hidden_classification_head_dim=small_hidden_classification_head_dim,
                                     max_num_spellings=max_num_spellings, train_bert_param=train_bert_param,
-                                    num_spelling_threshold=num_spelling_threshold)
+                                    num_spelling_threshold=num_spelling_threshold, dropout=dropout)
 
     model_load_path = None if config['training_config']['model_load_path'] == 'None' else config['training_config']['model_load_path']
     model.load_state_dict(torch.load(model_load_path))
