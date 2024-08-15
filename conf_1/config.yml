@@ -1,6 +1,7 @@
 model_config:
   # google-bert/bert-base-chinese
   # google-bert/bert-base-multilingual-cased
+  # change the dtype of BERT to torch_dtype=torch.float16
   bert_model: google-bert/bert-base-chinese
   hidden_ff_dim: 1024
   shrink_norm_hidden: 512
