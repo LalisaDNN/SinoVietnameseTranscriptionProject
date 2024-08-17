@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import os
 import numpy as np
 
-config_path = "conf"
 
 def load_training_log(config_folder_dir):
     log_dir = os.path.join(config_folder_dir, f"running/")
@@ -40,36 +39,40 @@ def plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_f
 
     plt.figure(figsize=(12, 8))
 
-    plt.subplot(2, 2, 1)
+    plt.subplot(2, 2, 1).set_xlim([0, last_epoch])
     plt.plot(epochs, train_losses, label='Training Loss')
-    plt.xlabel('Epochs')
+    plt.xlabel('Epoch')
     plt.ylabel('Loss') 
     plt.title('Training Loss')
     plt.legend()
+    # plt.subplot(2, 2, 1).set_xlim([0, last_epoch])
     plt.grid(linestyle='--', alpha=0.7)
 
-    plt.subplot(2, 2, 2)
+    plt.subplot(2, 2, 2).set_xlim([0, last_epoch])
     plt.plot(epochs, test_losses, label='Test Loss')
-    plt.xlabel('Epochs')
+    plt.xlabel('Epoch')
     plt.ylabel('Loss')
     plt.title('Test Loss')
     plt.legend()
+    # plt.set_xlim([0, last_epoch])
     plt.grid(linestyle='--', alpha=0.7)
 
-    plt.subplot(2, 2, 3)
+    plt.subplot(2, 2, 3).set_xlim([0, last_epoch])
     plt.plot(epochs, test_accuracies, label='Test Accuracy')
-    plt.xlabel('Epochs')
+    plt.xlabel('Epoch')
     plt.ylabel('Accuracy')
     plt.title('Test Accuracy')
     plt.legend()
+    # plt.set_xlim([0, last_epoch])
     plt.grid(linestyle='--', alpha=0.7)
     
-    plt.subplot(2, 2, 4)
+    plt.subplot(2, 2, 4).set_xlim([0, last_epoch])
     plt.plot(epochs, test_wers, label='Test WER')
-    plt.xlabel('Epochs')
+    plt.xlabel('Epoch')
     plt.ylabel('WER')
     plt.title('Test WER')
     plt.legend()
+    # plt.set_xlim([0, last_epoch])
     plt.grid(linestyle='--', alpha=0.7)
     
     save_dir = os.path.join(config_folder_dir, f"running/")
@@ -77,6 +80,8 @@ def plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_f
     # plt.savefig(os.path.join(save_dir, f'training_metrics_{last_epoch}.svg'))
     plt.savefig(os.path.join(save_dir, f'training_metrics_{last_epoch}.pdf'))
     plt.show()
+
+config_path = "conf_1"
 
 train_losses, test_losses, test_accuracies, test_wers = load_training_log(config_path)
 plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_path)

@@ -1,7 +1,7 @@
 model_config:
   # google-bert/bert-base-chinese
   # google-bert/bert-base-multilingual-cased
-  torch_dtype: None
+  torch_dtype: torch.float16
   bert_model: google-bert/bert-base-chinese
   hidden_ff_dim: 1024
   shrink_norm_hidden: 512
