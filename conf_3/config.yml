@@ -5,13 +5,13 @@ model_config:
   bert_model: google-bert/bert-base-chinese
   hidden_ff_dim: 1024
   shrink_norm_hidden: 512
-  model_hidden_dim: 384 # d_model
+  model_hidden_dim: 256 # d_model
   large_hidden_classification_head_dim: 256
   small_hidden_classification_head_dim: 128
   max_num_spellings: 7
-  num_spelling_threshold: 3
+  num_spelling_threshold: 7
   train_bert_param: True
-  dropout: 0.4
+  dropout: 0.1
 
 data_config:
   batch_size: 16
@@ -20,4 +20,4 @@ data_config:
 training_config:
   num_epochs: 60
   learning_rate: 0.00001
-  model_load_path: None
+  model_load_path: conf_3\running\saved_model\sivi_model_epoch_3.pt
