@@ -11,7 +11,7 @@ model_config:
   max_num_spellings: 7
   num_spelling_threshold: 7
   train_bert_param: True
-  dropout: 0.2
+  dropout: 0.1
 
 data_config:
   batch_size: 16
@@ -20,4 +20,4 @@ data_config:
 training_config:
   num_epochs: 60
   learning_rate: 0.00001
-  model_load_path: conf_4\running\saved_model\sivi_model_epoch_23.pt
+  model_load_path: None
