@@ -18,6 +18,6 @@ data_config:
   max_len: 512
 
 training_config:
-  num_epochs: 60
-  learning_rate: 0.00001
-  model_load_path: None
+  num_epochs: 80
+  learning_rate: 0.000001
+  model_load_path: conf_5\running/saved_model/sivi_model_epoch_64.pt
