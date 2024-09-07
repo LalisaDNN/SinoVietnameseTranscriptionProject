@@ -1,0 +1,8354 @@
+{
+    "上": {
+        "num_readings": 2,
+        "precision": 0.8696853741496599,
+        "recall": 0.8209163766740484,
+        "f1": 0.8426156947322423
+    },
+    "思": {
+        "num_readings": 2,
+        "precision": 0.9156887845814665,
+        "recall": 0.9324824269330374,
+        "f1": 0.9235091026070881
+    },
+    "起": {
+        "num_readings": 2,
+        "precision": 0.49793388429752067,
+        "recall": 0.5,
+        "f1": 0.4989648033126294
+    },
+    "省": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "王": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "大": {
+        "num_readings": 2,
+        "precision": 0.496996996996997,
+        "recall": 0.5,
+        "f1": 0.49849397590361444
+    },
+    "秋": {
+        "num_readings": 2,
+        "precision": 0.4992997198879552,
+        "recall": 0.5,
+        "f1": 0.49964961457603363
+    },
+    "鏡": {
+        "num_readings": 2,
+        "precision": 0.4794520547945205,
+        "recall": 0.5,
+        "f1": 0.48951048951048953
+    },
+    "黃": {
+        "num_readings": 2,
+        "precision": 0.4985754985754986,
+        "recall": 0.5,
+        "f1": 0.4992867332382311
+    },
+    "主": {
+        "num_readings": 2,
+        "precision": 0.926654740608229,
+        "recall": 0.781582054309327,
+        "f1": 0.8329411764705883
+    },
+    "飲": {
+        "num_readings": 2,
+        "precision": 0.48514851485148514,
+        "recall": 0.5,
+        "f1": 0.49246231155778897
+    },
+    "那": {
+        "num_readings": 3,
+        "precision": 0.6208333333333333,
+        "recall": 0.3636363636363636,
+        "f1": 0.3642803877703207
+    },
+    "夫": {
+        "num_readings": 2,
+        "precision": 0.9825581395348837,
+        "recall": 0.8928571428571428,
+        "f1": 0.9311242603550296
+    },
+    "離": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "帶": {
+        "num_readings": 2,
+        "precision": 0.9310344827586207,
+        "recall": 0.6,
+        "f1": 0.6296296296296297
+    },
+    "痕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嶺": {
+        "num_readings": 2,
+        "precision": 0.46464646464646464,
+        "recall": 0.5,
+        "f1": 0.4816753926701571
+    },
+    "霽": {
+        "num_readings": 2,
+        "precision": 0.4772727272727273,
+        "recall": 0.5,
+        "f1": 0.4883720930232558
+    },
+    "長": {
+        "num_readings": 3,
+        "precision": 0.6103856665654419,
+        "recall": 0.5523565792279803,
+        "f1": 0.5770467428677631
+    },
+    "未": {
+        "num_readings": 2,
+        "precision": 0.749031007751938,
+        "recall": 0.749031007751938,
+        "f1": 0.749031007751938
+    },
+    "道": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "山": {
+        "num_readings": 2,
+        "precision": 0.4642112578179291,
+        "recall": 0.5,
+        "f1": 0.48144144144144146
+    },
+    "時": {
+        "num_readings": 2,
+        "precision": 0.7517581091484093,
+        "recall": 0.7365964061552901,
+        "f1": 0.7416524096279604
+    },
+    "分": {
+        "num_readings": 3,
+        "precision": 0.26903553299492383,
+        "recall": 0.3333333333333333,
+        "f1": 0.29775280898876405
+    },
+    "寧": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "痡": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "遠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "觀": {
+        "num_readings": 2,
+        "precision": 0.9312466559657571,
+        "recall": 0.8510452961672474,
+        "f1": 0.8818474758324382
+    },
+    "疏": {
+        "num_readings": 2,
+        "precision": 0.4857142857142857,
+        "recall": 0.5,
+        "f1": 0.4927536231884058
+    },
+    "說": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "閒": {
+        "num_readings": 2,
+        "precision": 0.47202797202797203,
+        "recall": 0.5,
+        "f1": 0.4856115107913669
+    },
+    "機": {
+        "num_readings": 2,
+        "precision": 0.8649425287356323,
+        "recall": 0.7178387650085764,
+        "f1": 0.7625861155272919
+    },
+    "作": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "膏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "翡": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "泯": {
+        "num_readings": 4,
+        "precision": 0.625,
+        "recall": 0.625,
+        "f1": 0.625
+    },
+    "幛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "行": {
+        "num_readings": 3,
+        "precision": 0.2961023851076207,
+        "recall": 0.3333333333333333,
+        "f1": 0.31361675908810843
+    },
+    "衣": {
+        "num_readings": 2,
+        "precision": 0.49776785714285715,
+        "recall": 0.5,
+        "f1": 0.4988814317673378
+    },
+    "當": {
+        "num_readings": 3,
+        "precision": 0.4979508196721312,
+        "recall": 0.5,
+        "f1": 0.4989733059548255
+    },
+    "歸": {
+        "num_readings": 2,
+        "precision": 0.4991922455573506,
+        "recall": 0.5,
+        "f1": 0.4995957962813258
+    },
+    "信": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "橫": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "見": {
+        "num_readings": 2,
+        "precision": 0.48736842105263156,
+        "recall": 0.5,
+        "f1": 0.4936034115138593
+    },
+    "臺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "西": {
+        "num_readings": 2,
+        "precision": 0.4918793503480278,
+        "recall": 0.5,
+        "f1": 0.495906432748538
+    },
+    "姥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "幾": {
+        "num_readings": 5,
+        "precision": 0.3235653235653236,
+        "recall": 0.3333333333333333,
+        "f1": 0.32837670384138784
+    },
+    "御": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "闕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "平": {
+        "num_readings": 2,
+        "precision": 0.49633699633699635,
+        "recall": 0.5,
+        "f1": 0.49816176470588236
+    },
+    "樹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "相": {
+        "num_readings": 2,
+        "precision": 0.9670830080666146,
+        "recall": 0.9258039008961518,
+        "f1": 0.9451699827019427
+    },
+    "庖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "不": {
+        "num_readings": 3,
+        "precision": 0.49948453608247423,
+        "recall": 0.5,
+        "f1": 0.4997421351211965
+    },
+    "度": {
+        "num_readings": 2,
+        "precision": 0.49159663865546216,
+        "recall": 0.5,
+        "f1": 0.4957627118644068
+    },
+    "難": {
+        "num_readings": 3,
+        "precision": 0.9788461538461539,
+        "recall": 0.7105263157894737,
+        "f1": 0.785490795313978
+    },
+    "居": {
+        "num_readings": 2,
+        "precision": 0.497787610619469,
+        "recall": 0.5,
+        "f1": 0.49889135254988914
+    },
+    "其": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "食": {
+        "num_readings": 2,
+        "precision": 0.4823008849557522,
+        "recall": 0.5,
+        "f1": 0.49099099099099097
+    },
+    "著": {
+        "num_readings": 3,
+        "precision": 0.7938596491228069,
+        "recall": 0.6861111111111111,
+        "f1": 0.722972972972973
+    },
+    "會": {
+        "num_readings": 2,
+        "precision": 0.4951923076923077,
+        "recall": 0.4951923076923077,
+        "f1": 0.4951923076923077
+    },
+    "緣": {
+        "num_readings": 2,
+        "precision": 0.4935897435897436,
+        "recall": 0.5,
+        "f1": 0.4967741935483871
+    },
+    "昔": {
+        "num_readings": 2,
+        "precision": 0.4962121212121212,
+        "recall": 0.5,
+        "f1": 0.49809885931558934
+    },
+    "為": {
+        "num_readings": 2,
+        "precision": 0.8706011730205279,
+        "recall": 0.8578919421213328,
+        "f1": 0.8638926083874379
+    },
+    "魑": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+    },
+    "燕": {
+        "num_readings": 2,
+        "precision": 0.9623655913978495,
+        "recall": 0.9239130434782609,
+        "f1": 0.9392704567860664
+    },
+    "朝": {
+        "num_readings": 3,
+        "precision": 0.925887802367473,
+        "recall": 0.9135727545337713,
+        "f1": 0.917769965568037
+    },
+    "浪": {
+        "num_readings": 2,
+        "precision": 0.9375,
+        "recall": 0.9953703703703703,
+        "f1": 0.9643410852713179
+    },
+    "和": {
+        "num_readings": 2,
+        "precision": 0.936043956043956,
+        "recall": 0.938549955791335,
+        "f1": 0.9368803701255783
+    },
+    "原": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "安": {
+        "num_readings": 2,
+        "precision": 0.6501831501831502,
+        "recall": 0.5462406015037594,
+        "f1": 0.5667189952904239
+    },
+    "推": {
+        "num_readings": 2,
+        "precision": 0.8,
+        "recall": 0.9166666666666667,
+        "f1": 0.8295454545454546
+    },
+    "去": {
+        "num_readings": 2,
+        "precision": 0.4955357142857143,
+        "recall": 0.5,
+        "f1": 0.4977578475336323
+    },
+    "場": {
+        "num_readings": 2,
+        "precision": 0.47619047619047616,
+        "recall": 0.5,
+        "f1": 0.4878048780487805
+    },
+    "好": {
+        "num_readings": 2,
+        "precision": 0.9267441860465117,
+        "recall": 0.7616755793226382,
+        "f1": 0.8199802176063303
+    },
+    "看": {
+        "num_readings": 2,
+        "precision": 0.855574523192842,
+        "recall": 0.854739252995067,
+        "f1": 0.8543526785714286
+    },
+    "丹": {
+        "num_readings": 2,
+        "precision": 0.9309360730593608,
+        "recall": 0.8595238095238096,
+        "f1": 0.8899248899248899
+    },
+    "調": {
+        "num_readings": 2,
+        "precision": 0.9571428571428571,
+        "recall": 0.9166666666666667,
+        "f1": 0.932157394843962
+    },
+    "綺": {
+        "num_readings": 2,
+        "precision": 0.4857142857142857,
+        "recall": 0.5,
+        "f1": 0.4927536231884058
+    },
+    "彈": {
+        "num_readings": 2,
+        "precision": 0.9807692307692308,
+        "recall": 0.8333333333333333,
+        "f1": 0.8901960784313725
+    },
+    "縱": {
+        "num_readings": 3,
+        "precision": 0.9,
+        "recall": 0.8636363636363636,
+        "f1": 0.8654970760233918
+    },
+    "葉": {
+        "num_readings": 2,
+        "precision": 0.4975247524752475,
+        "recall": 0.5,
+        "f1": 0.4987593052109181
+    },
+    "處": {
+        "num_readings": 2,
+        "precision": 0.9572595185067345,
+        "recall": 0.7691155358591848,
+        "f1": 0.8346235045742435
+    },
+    "過": {
+        "num_readings": 2,
+        "precision": 0.4334470989761092,
+        "recall": 0.5,
+        "f1": 0.4643510054844607
+    },
+    "倚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "語": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鳴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "易": {
+        "num_readings": 2,
+        "precision": 0.9257164404223228,
+        "recall": 0.8408816425120773,
+        "f1": 0.8733333333333333
+    },
+    "任": {
+        "num_readings": 3,
+        "precision": 0.9177631578947368,
+        "recall": 0.8835227272727272,
+        "f1": 0.8917293233082706
+    },
+    "將": {
+        "num_readings": 3,
+        "precision": 0.6302408406502344,
+        "recall": 0.6366484228719574,
+        "f1": 0.633241905033306
+    },
+    "告": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "盡": {
+        "num_readings": 2,
+        "precision": 0.4970414201183432,
+        "recall": 0.5,
+        "f1": 0.49851632047477745
+    },
+    "下": {
+        "num_readings": 2,
+        "precision": 0.8532786885245902,
+        "recall": 0.8186822214919487,
+        "f1": 0.8345131215469613
+    },
+    "切": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "幻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "造": {
+        "num_readings": 2,
+        "precision": 0.4838709677419355,
+        "recall": 0.5,
+        "f1": 0.4918032786885246
+    },
+    "實": {
+        "num_readings": 2,
+        "precision": 0.4791666666666667,
+        "recall": 0.5,
+        "f1": 0.48936170212765956
+    },
+    "應": {
+        "num_readings": 2,
+        "precision": 0.874438202247191,
+        "recall": 0.8088507877664504,
+        "f1": 0.8346814964610718
+    },
+    "子": {
+        "num_readings": 2,
+        "precision": 0.9956521739130435,
+        "recall": 0.8529411764705883,
+        "f1": 0.9116096973347387
+    },
+    "直": {
+        "num_readings": 2,
+        "precision": 0.4936708860759494,
+        "recall": 0.5,
+        "f1": 0.4968152866242038
+    },
+    "孫": {
+        "num_readings": 2,
+        "precision": 0.4915254237288136,
+        "recall": 0.5,
+        "f1": 0.49572649572649574
+    },
+    "威": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "振": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "諸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "占": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "知": {
+        "num_readings": 2,
+        "precision": 0.4991212653778559,
+        "recall": 0.5,
+        "f1": 0.4995602462620932
+    },
+    "興": {
+        "num_readings": 2,
+        "precision": 0.9686259920634921,
+        "recall": 0.972315960504937,
+        "f1": 0.97043353770502
+    },
+    "有": {
+        "num_readings": 2,
+        "precision": 0.4990583804143126,
+        "recall": 0.5,
+        "f1": 0.49952874646559847
+    },
+    "恰": {
+        "num_readings": 2,
+        "precision": 0.8636363636363636,
+        "recall": 0.75,
+        "f1": 0.7543859649122806
+    },
+    "蒲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "薜": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "數": {
+        "num_readings": 3,
+        "precision": 0.8173902671755725,
+        "recall": 0.8033515731874146,
+        "f1": 0.8100233100233101
+    },
+    "卷": {
+        "num_readings": 3,
+        "precision": 0.32098765432098764,
+        "recall": 0.3333333333333333,
+        "f1": 0.3270440251572327
+    },
+    "藏": {
+        "num_readings": 2,
+        "precision": 0.4838709677419355,
+        "recall": 0.5,
+        "f1": 0.4918032786885246
+    },
+    "泊": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "重": {
+        "num_readings": 2,
+        "precision": 0.9466252135940763,
+        "recall": 0.9281326781326782,
+        "f1": 0.9366503755470681
+    },
+    "百": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "遲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "期": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "畫": {
+        "num_readings": 2,
+        "precision": 0.4864864864864865,
+        "recall": 0.5,
+        "f1": 0.4931506849315068
+    },
+    "羈": {
+        "num_readings": 2,
+        "precision": 0.42424242424242425,
+        "recall": 0.5,
+        "f1": 0.45901639344262296
+    },
+    "濁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "醒": {
+        "num_readings": 2,
+        "precision": 0.9594594594594594,
+        "recall": 0.8636363636363636,
+        "f1": 0.8999258710155671
+    },
+    "還": {
+        "num_readings": 2,
+        "precision": 0.4982078853046595,
+        "recall": 0.5,
+        "f1": 0.4991023339317774
+    },
+    "始": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "侯": {
+        "num_readings": 2,
+        "precision": 0.4931506849315068,
+        "recall": 0.5,
+        "f1": 0.496551724137931
+    },
+    "亡": {
+        "num_readings": 2,
+        "precision": 0.48936170212765956,
+        "recall": 0.5,
+        "f1": 0.4946236559139785
+    },
+    "台": {
+        "num_readings": 3,
+        "precision": 0.975,
+        "recall": 0.984375,
+        "f1": 0.9792429792429792
+    },
+    "殿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "寶": {
+        "num_readings": 2,
+        "precision": 0.49137931034482757,
+        "recall": 0.5,
+        "f1": 0.4956521739130435
+    },
+    "臨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "裘": {
+        "num_readings": 2,
+        "precision": 0.7065217391304348,
+        "recall": 0.7065217391304348,
+        "f1": 0.7065217391304348
+    },
+    "於": {
+        "num_readings": 2,
+        "precision": 0.48770491803278687,
+        "recall": 0.5,
+        "f1": 0.49377593360995853
+    },
+    "雷": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "乍": {
+        "num_readings": 3,
+        "precision": 0.25396825396825395,
+        "recall": 0.3333333333333333,
+        "f1": 0.2882882882882883
+    },
+    "也": {
+        "num_readings": 3,
+        "precision": 0.32643678160919537,
+        "recall": 0.3333333333333333,
+        "f1": 0.32984901277584205
+    },
+    "許": {
+        "num_readings": 3,
+        "precision": 0.5214285714285715,
+        "recall": 0.5099206349206349,
+        "f1": 0.5024325519681556
+    },
+    "陰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "景": {
+        "num_readings": 2,
+        "precision": 0.48322147651006714,
+        "recall": 0.5,
+        "f1": 0.49146757679180886
+    },
+    "織": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "女": {
+        "num_readings": 2,
+        "precision": 0.4834905660377358,
+        "recall": 0.5,
+        "f1": 0.49160671462829736
+    },
+    "與": {
+        "num_readings": 3,
+        "precision": 0.3272884283246978,
+        "recall": 0.3333333333333333,
+        "f1": 0.3302832244008715
+    },
+    "降": {
+        "num_readings": 2,
+        "precision": 0.936026936026936,
+        "recall": 0.936026936026936,
+        "f1": 0.936026936026936
+    },
+    "洞": {
+        "num_readings": 2,
+        "precision": 0.48863636363636365,
+        "recall": 0.5,
+        "f1": 0.4942528735632184
+    },
+    "曾": {
+        "num_readings": 2,
+        "precision": 0.9814814814814814,
+        "recall": 0.5833333333333334,
+        "f1": 0.633423180592992
+    },
+    "向": {
+        "num_readings": 2,
+        "precision": 0.49551569506726456,
+        "recall": 0.5,
+        "f1": 0.49774774774774777
+    },
+    "宿": {
+        "num_readings": 2,
+        "precision": 0.4863636363636364,
+        "recall": 0.5,
+        "f1": 0.4930875576036866
+    },
+    "璃": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.375,
+        "f1": 0.42857142857142855
+    },
+    "標": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "夢": {
+        "num_readings": 2,
+        "precision": 0.49835526315789475,
+        "recall": 0.5,
+        "f1": 0.49917627677100496
+    },
+    "中": {
+        "num_readings": 2,
+        "precision": 0.9964830011723329,
+        "recall": 0.625,
+        "f1": 0.6982352941176471
+    },
+    "摧": {
+        "num_readings": 3,
+        "precision": 0.9565217391304348,
+        "recall": 0.6666666666666666,
+        "f1": 0.7272727272727273
+    },
+    "濟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "激": {
+        "num_readings": 2,
+        "precision": 0.43478260869565216,
+        "recall": 0.5,
+        "f1": 0.46511627906976744
+    },
+    "袂": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "傳": {
+        "num_readings": 3,
+        "precision": 0.476027397260274,
+        "recall": 0.5,
+        "f1": 0.48771929824561405
+    },
+    "尼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "涕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "橋": {
+        "num_readings": 2,
+        "precision": 0.496,
+        "recall": 0.5,
+        "f1": 0.4979919678714859
+    },
+    "斷": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "溪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "挑": {
+        "num_readings": 4,
+        "precision": 0.47058823529411764,
+        "recall": 0.5,
+        "f1": 0.48484848484848486
+    },
+    "更": {
+        "num_readings": 2,
+        "precision": 0.9447014297729184,
+        "recall": 0.8953271028037384,
+        "f1": 0.9148967624303947
+    },
+    "擔": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "訪": {
+        "num_readings": 2,
+        "precision": 0.46774193548387094,
+        "recall": 0.5,
+        "f1": 0.48333333333333334
+    },
+    "肩": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.4375,
+        "f1": 0.4666666666666667
+    },
+    "陳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "錢": {
+        "num_readings": 2,
+        "precision": 0.49107142857142855,
+        "recall": 0.5,
+        "f1": 0.4954954954954955
+    },
+    "使": {
+        "num_readings": 2,
+        "precision": 0.9149159663865547,
+        "recall": 0.9149159663865547,
+        "f1": 0.9149159663865547
+    },
+    "兩": {
+        "num_readings": 3,
+        "precision": 0.4968944099378882,
+        "recall": 0.5,
+        "f1": 0.4984423676012461
+    },
+    "逢": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蛾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "霸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "正": {
+        "num_readings": 3,
+        "precision": 0.32189542483660133,
+        "recall": 0.3333333333333333,
+        "f1": 0.32751454696591853
+    },
+    "蟄": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1": 0.7333333333333334
+    },
+    "朱": {
+        "num_readings": 2,
+        "precision": 0.4695121951219512,
+        "recall": 0.5,
+        "f1": 0.48427672955974843
+    },
+    "樂": {
+        "num_readings": 3,
+        "precision": 0.9439407341884122,
+        "recall": 0.8709349593495934,
+        "f1": 0.8996394230769231
+    },
+    "提": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "冠": {
+        "num_readings": 2,
+        "precision": 0.8508064516129032,
+        "recall": 0.8169398907103824,
+        "f1": 0.8326159732185557
+    },
+    "依": {
+        "num_readings": 2,
+        "precision": 0.4900662251655629,
+        "recall": 0.5,
+        "f1": 0.49498327759197325
+    },
+    "傍": {
+        "num_readings": 2,
+        "precision": 0.8627717391304348,
+        "recall": 0.8531746031746033,
+        "f1": 0.8533333333333333
+    },
+    "復": {
+        "num_readings": 2,
+        "precision": 0.4880952380952381,
+        "recall": 0.5,
+        "f1": 0.4939759036144578
+    },
+    "本": {
+        "num_readings": 2,
+        "precision": 0.4873417721518987,
+        "recall": 0.5,
+        "f1": 0.4935897435897436
+    },
+    "禪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "干": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "縣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "齊": {
+        "num_readings": 4,
+        "precision": 0.3224043715846994,
+        "recall": 0.3333333333333333,
+        "f1": 0.3277777777777778
+    },
+    "涼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "舍": {
+        "num_readings": 2,
+        "precision": 0.9551282051282051,
+        "recall": 0.65,
+        "f1": 0.7072792978833247
+    },
+    "渺": {
+        "num_readings": 3,
+        "precision": 0.45588235294117646,
+        "recall": 0.5,
+        "f1": 0.47692307692307695
+    },
+    "變": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "棹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "意": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "量": {
+        "num_readings": 3,
+        "precision": 0.5277777777777778,
+        "recall": 0.5757575757575758,
+        "f1": 0.5263157894736842
+    },
+    "暗": {
+        "num_readings": 2,
+        "precision": 0.4661016949152542,
+        "recall": 0.5,
+        "f1": 0.4824561403508772
+    },
+    "撒": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.875,
+        "f1": 0.8285714285714285
+    },
+    "柴": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "勞": {
+        "num_readings": 2,
+        "precision": 0.48484848484848486,
+        "recall": 0.5,
+        "f1": 0.49230769230769234
+    },
+    "錯": {
+        "num_readings": 2,
+        "precision": 0.4473684210526316,
+        "recall": 0.5,
+        "f1": 0.4722222222222222
+    },
+    "瑁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "退": {
+        "num_readings": 2,
+        "precision": 0.4838709677419355,
+        "recall": 0.5,
+        "f1": 0.4918032786885246
+    },
+    "搖": {
+        "num_readings": 2,
+        "precision": 0.8622641509433963,
+        "recall": 0.74,
+        "f1": 0.7834204630321135
+    },
+    "遺": {
+        "num_readings": 2,
+        "precision": 0.4942528735632184,
+        "recall": 0.5,
+        "f1": 0.49710982658959535
+    },
+    "靨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "浣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "洒": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "釵": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "遙": {
+        "num_readings": 2,
+        "precision": 0.46808510638297873,
+        "recall": 0.5,
+        "f1": 0.4835164835164835
+    },
+    "聞": {
+        "num_readings": 2,
+        "precision": 0.498371335504886,
+        "recall": 0.5,
+        "f1": 0.499184339314845
+    },
+    "若": {
+        "num_readings": 2,
+        "precision": 0.49328859060402686,
+        "recall": 0.5,
+        "f1": 0.4966216216216216
+    },
+    "莫": {
+        "num_readings": 3,
+        "precision": 0.49557522123893805,
+        "recall": 0.5,
+        "f1": 0.49777777777777776
+    },
+    "賓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "少": {
+        "num_readings": 2,
+        "precision": 0.9399697485346947,
+        "recall": 0.9415001264862131,
+        "f1": 0.9403625577836328
+    },
+    "彭": {
+        "num_readings": 2,
+        "precision": 0.4583333333333333,
+        "recall": 0.5,
+        "f1": 0.4782608695652174
+    },
+    "澤": {
+        "num_readings": 2,
+        "precision": 0.4852941176470588,
+        "recall": 0.5,
+        "f1": 0.4925373134328358
+    },
+    "只": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "憐": {
+        "num_readings": 2,
+        "precision": 0.43537414965986393,
+        "recall": 0.5,
+        "f1": 0.46545454545454545
+    },
+    "又": {
+        "num_readings": 2,
+        "precision": 0.4975845410628019,
+        "recall": 0.5,
+        "f1": 0.49878934624697335
+    },
+    "庸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蘆": {
+        "num_readings": 2,
+        "precision": 0.94,
+        "recall": 0.75,
+        "f1": 0.801418439716312
+    },
+    "焚": {
+        "num_readings": 2,
+        "precision": 0.4666666666666667,
+        "recall": 0.5,
+        "f1": 0.4827586206896552
+    },
+    "豈": {
+        "num_readings": 3,
+        "precision": 0.6185897435897436,
+        "recall": 0.5666666666666667,
+        "f1": 0.5893563466379
+    },
+    "榛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "弟": {
+        "num_readings": 2,
+        "precision": 0.4943820224719101,
+        "recall": 0.5,
+        "f1": 0.4971751412429379
+    },
+    "屬": {
+        "num_readings": 3,
+        "precision": 0.4605263157894737,
+        "recall": 0.5,
+        "f1": 0.4794520547945205
+    },
+    "肆": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "回": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "首": {
+        "num_readings": 2,
+        "precision": 0.48,
+        "recall": 0.5,
+        "f1": 0.4897959183673469
+    },
+    "征": {
+        "num_readings": 2,
+        "precision": 0.4763779527559055,
+        "recall": 0.5,
+        "f1": 0.4879032258064516
+    },
+    "戲": {
+        "num_readings": 3,
+        "precision": 0.49056603773584906,
+        "recall": 0.5,
+        "f1": 0.49523809523809526
+    },
+    "靜": {
+        "num_readings": 2,
+        "precision": 0.47115384615384615,
+        "recall": 0.5,
+        "f1": 0.48514851485148514
+    },
+    "斗": {
+        "num_readings": 2,
+        "precision": 0.812121212121212,
+        "recall": 0.7682291666666667,
+        "f1": 0.7874125874125875
+    },
+    "乘": {
+        "num_readings": 2,
+        "precision": 0.8732142857142857,
+        "recall": 0.7764550264550265,
+        "f1": 0.8151515151515152
+    },
+    "非": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "稱": {
+        "num_readings": 2,
+        "precision": 0.9807692307692308,
+        "recall": 0.9285714285714286,
+        "f1": 0.951734539969834
+    },
+    "慶": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "武": {
+        "num_readings": 2,
+        "precision": 0.4336734693877551,
+        "recall": 0.5,
+        "f1": 0.4644808743169399
+    },
+    "舟": {
+        "num_readings": 2,
+        "precision": 0.48484848484848486,
+        "recall": 0.5,
+        "f1": 0.49230769230769234
+    },
+    "拖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "潮": {
+        "num_readings": 2,
+        "precision": 0.9649122807017544,
+        "recall": 0.6,
+        "f1": 0.6484848484848484
+    },
+    "座": {
+        "num_readings": 2,
+        "precision": 0.94,
+        "recall": 0.625,
+        "f1": 0.6680851063829787
+    },
+    "倒": {
+        "num_readings": 2,
+        "precision": 0.49,
+        "recall": 0.5,
+        "f1": 0.494949494949495
+    },
+    "付": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "彌": {
+        "num_readings": 2,
+        "precision": 0.8975,
+        "recall": 0.8680555555555556,
+        "f1": 0.8811524609843937
+    },
+    "勝": {
+        "num_readings": 2,
+        "precision": 0.875334403424291,
+        "recall": 0.9437065148640101,
+        "f1": 0.9045691150954309
+    },
+    "勁": {
+        "num_readings": 2,
+        "precision": 0.5606060606060606,
+        "recall": 0.5416666666666667,
+        "f1": 0.47593582887700536
+    },
+    "合": {
+        "num_readings": 4,
+        "precision": 0.3230240549828179,
+        "recall": 0.3333333333333333,
+        "f1": 0.3280977312390925
+    },
+    "松": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "葭": {
+        "num_readings": 2,
+        "precision": 0.4807692307692308,
+        "recall": 0.49107142857142855,
+        "f1": 0.4
+    },
+    "共": {
+        "num_readings": 2,
+        "precision": 0.4965986394557823,
+        "recall": 0.5,
+        "f1": 0.49829351535836175
+    },
+    "耿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "漏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "謾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鷓": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "枝": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鳳": {
+        "num_readings": 2,
+        "precision": 0.7612612612612613,
+        "recall": 0.6961945031712473,
+        "f1": 0.6938562998958695
+    },
+    "昭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "令": {
+        "num_readings": 3,
+        "precision": 0.5355020796197266,
+        "recall": 0.5608465608465608,
+        "f1": 0.5449376947040498
+    },
+    "槎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "角": {
+        "num_readings": 2,
+        "precision": 0.8690217391304347,
+        "recall": 0.8464285714285714,
+        "f1": 0.851764705882353
+    },
+    "要": {
+        "num_readings": 2,
+        "precision": 0.9270833333333333,
+        "recall": 0.6111111111111112,
+        "f1": 0.6424923391215527
+    },
+    "竿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "絮": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "柏": {
+        "num_readings": 2,
+        "precision": 0.9464285714285714,
+        "recall": 0.7,
+        "f1": 0.7574123989218329
+    },
+    "儲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "啟": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "佛": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.9859154929577465,
+        "f1": 0.8261904761904761
+    },
+    "憑": {
+        "num_readings": 2,
+        "precision": 0.49375,
+        "recall": 0.5,
+        "f1": 0.4968553459119497
+    },
+    "棲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "腸": {
+        "num_readings": 2,
+        "precision": 0.46703296703296704,
+        "recall": 0.5,
+        "f1": 0.48295454545454547
+    },
+    "淺": {
+        "num_readings": 2,
+        "precision": 0.4861111111111111,
+        "recall": 0.5,
+        "f1": 0.49295774647887325
+    },
+    "妻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "顱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "泥": {
+        "num_readings": 3,
+        "precision": 0.32367149758454106,
+        "recall": 0.3333333333333333,
+        "f1": 0.3284313725490196
+    },
+    "觴": {
+        "num_readings": 3,
+        "precision": 0.875,
+        "recall": 0.8776223776223776,
+        "f1": 0.8747826086956522
+    },
+    "從": {
+        "num_readings": 6,
+        "precision": 0.29976653696498057,
+        "recall": 0.3982832618025751,
+        "f1": 0.3385714285714286
+    },
+    "句": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "識": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "賈": {
+        "num_readings": 3,
+        "precision": 0.6111111111111112,
+        "recall": 0.6666666666666666,
+        "f1": 0.6363636363636364
+    },
+    "華": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "能": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "父": {
+        "num_readings": 2,
+        "precision": 0.9166666666666667,
+        "recall": 0.9916666666666667,
+        "f1": 0.9503437738731857
+    },
+    "差": {
+        "num_readings": 5,
+        "precision": 0.5761689291101056,
+        "recall": 0.6388888888888888,
+        "f1": 0.6058333333333333
+    },
+    "喪": {
+        "num_readings": 2,
+        "precision": 0.7807017543859649,
+        "recall": 0.7222222222222222,
+        "f1": 0.7451737451737452
+    },
+    "迎": {
+        "num_readings": 3,
+        "precision": 0.7674825174825175,
+        "recall": 0.7451923076923077,
+        "f1": 0.7533333333333333
+    },
+    "聽": {
+        "num_readings": 2,
+        "precision": 0.44814814814814813,
+        "recall": 0.5,
+        "f1": 0.47265625
+    },
+    "洗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鞍": {
+        "num_readings": 2,
+        "precision": 0.6703296703296704,
+        "recall": 0.6347826086956522,
+        "f1": 0.6434573829531813
+    },
+    "進": {
+        "num_readings": 2,
+        "precision": 0.47959183673469385,
+        "recall": 0.5,
+        "f1": 0.4895833333333333
+    },
+    "懶": {
+        "num_readings": 2,
+        "precision": 0.4772727272727273,
+        "recall": 0.5,
+        "f1": 0.4883720930232558
+    },
+    "放": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "予": {
+        "num_readings": 2,
+        "precision": 0.4722222222222222,
+        "recall": 0.5,
+        "f1": 0.4857142857142857
+    },
+    "塞": {
+        "num_readings": 2,
+        "precision": 0.7949561403508771,
+        "recall": 0.7645034414945919,
+        "f1": 0.7786991448561804
+    },
+    "漸": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蛛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "綴": {
+        "num_readings": 3,
+        "precision": 0.5,
+        "recall": 0.5555555555555555,
+        "f1": 0.48888888888888893
+    },
+    "乎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "斂": {
+        "num_readings": 2,
+        "precision": 0.4782608695652174,
+        "recall": 0.5,
+        "f1": 0.4888888888888889
+    },
+    "張": {
+        "num_readings": 2,
+        "precision": 0.4909090909090909,
+        "recall": 0.5,
+        "f1": 0.4954128440366973
+    },
+    "吹": {
+        "num_readings": 2,
+        "precision": 0.4753694581280788,
+        "recall": 0.5,
+        "f1": 0.48737373737373735
+    },
+    "盛": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "喜": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "間": {
+        "num_readings": 3,
+        "precision": 0.715099715099715,
+        "recall": 0.715099715099715,
+        "f1": 0.715099715099715
+    },
+    "屈": {
+        "num_readings": 2,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "索": {
+        "num_readings": 2,
+        "precision": 0.8592592592592593,
+        "recall": 0.8423529411764705,
+        "f1": 0.8485576923076923
+    },
+    "縛": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "插": {
+        "num_readings": 3,
+        "precision": 0.8705882352941177,
+        "recall": 0.8705882352941177,
+        "f1": 0.8705882352941177
+    },
+    "拏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "偷": {
+        "num_readings": 2,
+        "precision": 0.4722222222222222,
+        "recall": 0.5,
+        "f1": 0.4857142857142857
+    },
+    "儒": {
+        "num_readings": 2,
+        "precision": 0.4714285714285714,
+        "recall": 0.5,
+        "f1": 0.4852941176470588
+    },
+    "于": {
+        "num_readings": 3,
+        "precision": 0.6577777777777778,
+        "recall": 0.5,
+        "f1": 0.551051051051051
+    },
+    "壯": {
+        "num_readings": 2,
+        "precision": 0.4887640449438202,
+        "recall": 0.5,
+        "f1": 0.4943181818181818
+    },
+    "忌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "臉": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "計": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "采": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "忘": {
+        "num_readings": 2,
+        "precision": 0.47802197802197804,
+        "recall": 0.5,
+        "f1": 0.4887640449438202
+    },
+    "却": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "你": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "異": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "漚": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "迥": {
+        "num_readings": 2,
+        "precision": 0.8863636363636364,
+        "recall": 0.5833333333333334,
+        "f1": 0.5787545787545787
+    },
+    "撲": {
+        "num_readings": 2,
+        "precision": 0.9545454545454546,
+        "recall": 0.75,
+        "f1": 0.8095238095238095
+    },
+    "載": {
+        "num_readings": 3,
+        "precision": 0.8679012345679012,
+        "recall": 0.7257575757575758,
+        "f1": 0.7532879818594105
+    },
+    "辰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "咽": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "塚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "脫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "把": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "乾": {
+        "num_readings": 3,
+        "precision": 0.6419753086419754,
+        "recall": 0.6410256410256411,
+        "f1": 0.6405128205128205
+    },
+    "且": {
+        "num_readings": 2,
+        "precision": 0.4900662251655629,
+        "recall": 0.5,
+        "f1": 0.49498327759197325
+    },
+    "京": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "薺": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "梢": {
+        "num_readings": 2,
+        "precision": 0.875,
+        "recall": 0.8571428571428572,
+        "f1": 0.8452380952380952
+    },
+    "溺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "貌": {
+        "num_readings": 2,
+        "precision": 0.47368421052631576,
+        "recall": 0.5,
+        "f1": 0.4864864864864865
+    },
+    "射": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "枷": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "沈": {
+        "num_readings": 3,
+        "precision": 0.8888888888888888,
+        "recall": 0.8888888888888888,
+        "f1": 0.8888888888888888
+    },
+    "衰": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "定": {
+        "num_readings": 2,
+        "precision": 0.4956896551724138,
+        "recall": 0.5,
+        "f1": 0.49783549783549785
+    },
+    "肖": {
+        "num_readings": 2,
+        "precision": 0.2857142857142857,
+        "recall": 0.5,
+        "f1": 0.36363636363636365
+    },
+    "矣": {
+        "num_readings": 2,
+        "precision": 0.4846153846153846,
+        "recall": 0.5,
+        "f1": 0.4921875
+    },
+    "灑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "巘": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "裴": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.46774193548387094,
+        "f1": 0.48333333333333334
+    },
+    "搜": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "辨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "峽": {
+        "num_readings": 3,
+        "precision": 0.48863636363636365,
+        "recall": 0.5,
+        "f1": 0.4942528735632184
+    },
+    "徵": {
+        "num_readings": 2,
+        "precision": 0.4782608695652174,
+        "recall": 0.5,
+        "f1": 0.4888888888888889
+    },
+    "鬢": {
+        "num_readings": 2,
+        "precision": 0.4855072463768116,
+        "recall": 0.5,
+        "f1": 0.49264705882352944
+    },
+    "惡": {
+        "num_readings": 3,
+        "precision": 0.6842105263157895,
+        "recall": 0.6142857142857143,
+        "f1": 0.6338729763387297
+    },
+    "峒": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "攘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "被": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "守": {
+        "num_readings": 2,
+        "precision": 0.9583333333333333,
+        "recall": 0.9895833333333333,
+        "f1": 0.9729977116704805
+    },
+    "土": {
+        "num_readings": 2,
+        "precision": 0.4943820224719101,
+        "recall": 0.5,
+        "f1": 0.4971751412429379
+    },
+    "委": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "收": {
+        "num_readings": 2,
+        "precision": 0.9622641509433962,
+        "recall": 0.6,
+        "f1": 0.6470588235294118
+    },
+    "康": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "沖": {
+        "num_readings": 2,
+        "precision": 0.4230769230769231,
+        "recall": 0.5,
+        "f1": 0.4583333333333333
+    },
+    "藩": {
+        "num_readings": 2,
+        "precision": 0.425,
+        "recall": 0.5,
+        "f1": 0.4594594594594595
+    },
+    "頃": {
+        "num_readings": 2,
+        "precision": 0.9782608695652174,
+        "recall": 0.75,
+        "f1": 0.8222222222222222
+    },
+    "司": {
+        "num_readings": 2,
+        "precision": 0.9666666666666667,
+        "recall": 0.9761904761904762,
+        "f1": 0.9705634987384357
+    },
+    "伏": {
+        "num_readings": 2,
+        "precision": 0.4838709677419355,
+        "recall": 0.5,
+        "f1": 0.4918032786885246
+    },
+    "鮮": {
+        "num_readings": 2,
+        "precision": 0.4807692307692308,
+        "recall": 0.5,
+        "f1": 0.49019607843137253
+    },
+    "呂": {
+        "num_readings": 2,
+        "precision": 0.7638888888888888,
+        "recall": 0.7375,
+        "f1": 0.7450980392156863
+    },
+    "掃": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蓋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "躡": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "空": {
+        "num_readings": 3,
+        "precision": 0.33181818181818185,
+        "recall": 0.3333333333333333,
+        "f1": 0.3325740318906606
+    },
+    "疑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "捕": {
+        "num_readings": 2,
+        "precision": 0.875,
+        "recall": 0.75,
+        "f1": 0.7619047619047619
+    },
+    "蛇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "周": {
+        "num_readings": 2,
+        "precision": 0.4863013698630137,
+        "recall": 0.5,
+        "f1": 0.4930555555555556
+    },
+    "罩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "強": {
+        "num_readings": 2,
+        "precision": 0.9285714285714286,
+        "recall": 0.9090909090909092,
+        "f1": 0.9115384615384616
+    },
+    "浦": {
+        "num_readings": 2,
+        "precision": 0.49295774647887325,
+        "recall": 0.5,
+        "f1": 0.49645390070921985
+    },
+    "論": {
+        "num_readings": 2,
+        "precision": 0.7520833333333333,
+        "recall": 0.7520833333333333,
+        "f1": 0.7520833333333333
+    },
+    "笙": {
+        "num_readings": 2,
+        "precision": 0.46153846153846156,
+        "recall": 0.46153846153846156,
+        "f1": 0.46153846153846156
+    },
+    "戴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "渾": {
+        "num_readings": 2,
+        "precision": 0.967741935483871,
+        "recall": 0.75,
+        "f1": 0.8166666666666667
+    },
+    "參": {
+        "num_readings": 3,
+        "precision": 0.9814814814814814,
+        "recall": 0.986842105263158,
+        "f1": 0.9838993710691823
+    },
+    "娜": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "諄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "迢": {
+        "num_readings": 2,
+        "precision": 0.6375291375291375,
+        "recall": 0.6293859649122807,
+        "f1": 0.6329757199322417
+    },
+    "遞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "漻": {
+        "num_readings": 2,
+        "precision": 0.1,
+        "recall": 0.5,
+        "f1": 0.16666666666666666
+    },
+    "嘖": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "滴": {
+        "num_readings": 3,
+        "precision": 0.8666666666666667,
+        "recall": 0.6376262626262627,
+        "f1": 0.7022512708787217
+    },
+    "止": {
+        "num_readings": 2,
+        "precision": 0.48863636363636365,
+        "recall": 0.5,
+        "f1": 0.4942528735632184
+    },
+    "渴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "住": {
+        "num_readings": 2,
+        "precision": 0.8935483870967742,
+        "recall": 0.7723214285714286,
+        "f1": 0.8122555410691004
+    },
+    "比": {
+        "num_readings": 5,
+        "precision": 0.2847222222222222,
+        "recall": 0.3333333333333333,
+        "f1": 0.3071161048689139
+    },
+    "散": {
+        "num_readings": 2,
+        "precision": 0.9451219512195121,
+        "recall": 0.6538461538461539,
+        "f1": 0.7062618595825427
+    },
+    "篩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "但": {
+        "num_readings": 2,
+        "precision": 0.95625,
+        "recall": 0.5625,
+        "f1": 0.5882352941176471
+    },
+    "採": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "營": {
+        "num_readings": 2,
+        "precision": 0.8583333333333334,
+        "recall": 0.814327485380117,
+        "f1": 0.8297213622291022
+    },
+    "稽": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "慈": {
+        "num_readings": 2,
+        "precision": 0.46551724137931033,
+        "recall": 0.5,
+        "f1": 0.48214285714285715
+    },
+    "并": {
+        "num_readings": 4,
+        "precision": 0.9285714285714286,
+        "recall": 0.9166666666666667,
+        "f1": 0.916083916083916
+    },
+    "灩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "簷": {
+        "num_readings": 2,
+        "precision": 0.8823529411764706,
+        "recall": 0.6,
+        "f1": 0.6
+    },
+    "總": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "揀": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鋏": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "爲": {
+        "num_readings": 2,
+        "precision": 0.9705882352941176,
+        "recall": 0.9285714285714286,
+        "f1": 0.9463869463869464
+    },
+    "旁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "僻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "龕": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "屠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "歇": {
+        "num_readings": 3,
+        "precision": 0.4166666666666667,
+        "recall": 0.4411764705882353,
+        "f1": 0.42857142857142855
+    },
+    "弭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "屏": {
+        "num_readings": 2,
+        "precision": 0.4861111111111111,
+        "recall": 0.5,
+        "f1": 0.49295774647887325
+    },
+    "菽": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "辦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "沿": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.9,
+        "f1": 0.7777777777777777
+    },
+    "奇": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.4918032786885246,
+        "f1": 0.49586776859504134
+    },
+    "肉": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "薔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "區": {
+        "num_readings": 2,
+        "precision": 0.4782608695652174,
+        "recall": 0.5,
+        "f1": 0.4888888888888889
+    },
+    "足": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "眇": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "菲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "祭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "治": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "沛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "監": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "湛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "賁": {
+        "num_readings": 3,
+        "precision": 0.1111111111111111,
+        "recall": 0.3333333333333333,
+        "f1": 0.16666666666666666
+    },
+    "眙": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "教": {
+        "num_readings": 2,
+        "precision": 0.8816129032258064,
+        "recall": 0.8673913043478261,
+        "f1": 0.8721590909090909
+    },
+    "彩": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "喬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "凡": {
+        "num_readings": 2,
+        "precision": 0.48148148148148145,
+        "recall": 0.5,
+        "f1": 0.49056603773584906
+    },
+    "筍": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "捧": {
+        "num_readings": 2,
+        "precision": 0.9,
+        "recall": 0.75,
+        "f1": 0.7777777777777777
+    },
+    "禦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嗤": {
+        "num_readings": 3,
+        "precision": 0.16666666666666666,
+        "recall": 0.2222222222222222,
+        "f1": 0.19047619047619047
+    },
+    "結": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "次": {
+        "num_readings": 2,
+        "precision": 0.4927536231884058,
+        "recall": 0.5,
+        "f1": 0.49635036496350365
+    },
+    "頗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "陶": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "堤": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "塋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "璫": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "倉": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "箱": {
+        "num_readings": 2,
+        "precision": 0.875,
+        "recall": 0.75,
+        "f1": 0.7619047619047619
+    },
+    "饑": {
+        "num_readings": 2,
+        "precision": 0.4838709677419355,
+        "recall": 0.5,
+        "f1": 0.4918032786885246
+    },
+    "仁": {
+        "num_readings": 2,
+        "precision": 0.4895833333333333,
+        "recall": 0.5,
+        "f1": 0.49473684210526314
+    },
+    "幡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "契": {
+        "num_readings": 3,
+        "precision": 0.2948717948717949,
+        "recall": 0.3333333333333333,
+        "f1": 0.3129251700680272
+    },
+    "捲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "暴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "灰": {
+        "num_readings": 2,
+        "precision": 0.3269230769230769,
+        "recall": 0.5,
+        "f1": 0.3953488372093023
+    },
+    "爐": {
+        "num_readings": 2,
+        "precision": 0.484375,
+        "recall": 0.5,
+        "f1": 0.49206349206349204
+    },
+    "棨": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "單": {
+        "num_readings": 4,
+        "precision": 0.8333333333333334,
+        "recall": 0.8888888888888888,
+        "f1": 0.8363636363636363
+    },
+    "荷": {
+        "num_readings": 2,
+        "precision": 0.7159090909090908,
+        "recall": 0.7159090909090908,
+        "f1": 0.7159090909090908
+    },
+    "蘋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "暹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "稍": {
+        "num_readings": 2,
+        "precision": 0.4090909090909091,
+        "recall": 0.5,
+        "f1": 0.45
+    },
+    "延": {
+        "num_readings": 2,
+        "precision": 0.4117647058823529,
+        "recall": 0.5,
+        "f1": 0.45161290322580644
+    },
+    "瞿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "援": {
+        "num_readings": 2,
+        "precision": 0.9375,
+        "recall": 0.75,
+        "f1": 0.8
+    },
+    "羨": {
+        "num_readings": 2,
+        "precision": 0.9523809523809523,
+        "recall": 0.6666666666666666,
+        "f1": 0.725
+    },
+    "懵": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "厭": {
+        "num_readings": 4,
+        "precision": 0.3977272727272727,
+        "recall": 0.5,
+        "f1": 0.4430379746835443
+    },
+    "陂": {
+        "num_readings": 3,
+        "precision": 0.9285714285714286,
+        "recall": 0.9285714285714286,
+        "f1": 0.9230769230769231
+    },
+    "飢": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "背": {
+        "num_readings": 2,
+        "precision": 0.9714285714285714,
+        "recall": 0.6666666666666666,
+        "f1": 0.7352941176470589
+    },
+    "諦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "杳": {
+        "num_readings": 3,
+        "precision": 0.5925925925925926,
+        "recall": 0.4166666666666667,
+        "f1": 0.425
+    },
+    "靄": {
+        "num_readings": 2,
+        "precision": 0.9666666666666667,
+        "recall": 0.75,
+        "f1": 0.8160919540229885
+    },
+    "追": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "勉": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "藉": {
+        "num_readings": 2,
+        "precision": 0.4583333333333333,
+        "recall": 0.5,
+        "f1": 0.4782608695652174
+    },
+    "適": {
+        "num_readings": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "敞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "搦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "施": {
+        "num_readings": 4,
+        "precision": 0.46551724137931033,
+        "recall": 0.5,
+        "f1": 0.48214285714285715
+    },
+    "宏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "株": {
+        "num_readings": 2,
+        "precision": 0.625,
+        "recall": 0.8125,
+        "f1": 0.5846153846153846
+    },
+    "龐": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "段": {
+        "num_readings": 2,
+        "precision": 0.96875,
+        "recall": 0.9,
+        "f1": 0.9283154121863799
+    },
+    "幹": {
+        "num_readings": 3,
+        "precision": 0.9166666666666667,
+        "recall": 0.8888888888888888,
+        "f1": 0.8920454545454546
+    },
+    "睛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "茲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蔓": {
+        "num_readings": 2,
+        "precision": 0.9615384615384616,
+        "recall": 0.75,
+        "f1": 0.8133333333333332
+    },
+    "訖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "選": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "珥": {
+        "num_readings": 2,
+        "precision": 0.9,
+        "recall": 0.8333333333333333,
+        "f1": 0.8444444444444444
+    },
+    "供": {
+        "num_readings": 2,
+        "precision": 0.46551724137931033,
+        "recall": 0.5,
+        "f1": 0.48214285714285715
+    },
+    "燒": {
+        "num_readings": 2,
+        "precision": 0.45454545454545453,
+        "recall": 0.5,
+        "f1": 0.47619047619047616
+    },
+    "坡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "彷": {
+        "num_readings": 2,
+        "precision": 0.8888888888888888,
+        "recall": 0.6666666666666666,
+        "f1": 0.6875
+    },
+    "繁": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "邪": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "撚": {
+        "num_readings": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "仆": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.6666666666666666,
+        "f1": 0.65
+    },
+    "轤": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "爬": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "汗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "漫": {
+        "num_readings": 2,
+        "precision": 0.8555718475073314,
+        "recall": 0.9258121158911325,
+        "f1": 0.8831246273106739
+    },
+    "剝": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "棗": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "亨": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "夭": {
+        "num_readings": 2,
+        "precision": 0.8035714285714286,
+        "recall": 0.8035714285714286,
+        "f1": 0.8035714285714286
+    },
+    "炮": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "惺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "屯": {
+        "num_readings": 2,
+        "precision": 0.9615384615384616,
+        "recall": 0.8333333333333333,
+        "f1": 0.88
+    },
+    "颻": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "垠": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "扁": {
+        "num_readings": 3,
+        "precision": 0.7863247863247863,
+        "recall": 0.6,
+        "f1": 0.6298701298701299
+    },
+    "枻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "受": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "抱": {
+        "num_readings": 2,
+        "precision": 0.49107142857142855,
+        "recall": 0.5,
+        "f1": 0.4954954954954955
+    },
+    "犛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "假": {
+        "num_readings": 3,
+        "precision": 0.9318181818181819,
+        "recall": 0.625,
+        "f1": 0.6634146341463415
+    },
+    "湯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "溜": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "汩": {
+        "num_readings": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.5
+    },
+    "亢": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "焦": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.625,
+        "f1": 0.6000000000000001
+    },
+    "卒": {
+        "num_readings": 3,
+        "precision": 0.3,
+        "recall": 0.3333333333333333,
+        "f1": 0.3157894736842105
+    },
+    "仿": {
+        "num_readings": 2,
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1": 0.625
+    },
+    "甕": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "薄": {
+        "num_readings": 2,
+        "precision": 0.4946236559139785,
+        "recall": 0.5,
+        "f1": 0.4972972972972973
+    },
+    "輸": {
+        "num_readings": 2,
+        "precision": 0.9545454545454546,
+        "recall": 0.75,
+        "f1": 0.8095238095238095
+    },
+    "眺": {
+        "num_readings": 2,
+        "precision": 0.45,
+        "recall": 0.5,
+        "f1": 0.47368421052631576
+    },
+    "豁": {
+        "num_readings": 2,
+        "precision": 0.9666666666666667,
+        "recall": 0.75,
+        "f1": 0.8160919540229885
+    },
+    "幅": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "湫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "號": {
+        "num_readings": 3,
+        "precision": 0.9020833333333333,
+        "recall": 0.9020833333333333,
+        "f1": 0.9020833333333333
+    },
+    "質": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "樊": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "料": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "燠": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "較": {
+        "num_readings": 3,
+        "precision": 0.4166666666666667,
+        "recall": 0.4166666666666667,
+        "f1": 0.4166666666666667
+    },
+    "象": {
+        "num_readings": 2,
+        "precision": 0.4772727272727273,
+        "recall": 0.5,
+        "f1": 0.4883720930232558
+    },
+    "拓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "井": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "攀": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "甑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "慮": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "斡": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "丁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "髻": {
+        "num_readings": 3,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "淹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "堆": {
+        "num_readings": 2,
+        "precision": 0.717948717948718,
+        "recall": 0.6011904761904762,
+        "f1": 0.6073500967117988
+    },
+    "箸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "並": {
+        "num_readings": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "柱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鯁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "儋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "裾": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "焉": {
+        "num_readings": 2,
+        "precision": 0.4864864864864865,
+        "recall": 0.5,
+        "f1": 0.4931506849315068
+    },
+    "蹋": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1": 0.7333333333333334
+    },
+    "籍": {
+        "num_readings": 2,
+        "precision": 0.4117647058823529,
+        "recall": 0.5,
+        "f1": 0.45161290322580644
+    },
+    "坏": {
+        "num_readings": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蕊": {
+        "num_readings": 2,
+        "precision": 0.38461538461538464,
+        "recall": 0.5,
+        "f1": 0.43478260869565216
+    },
+    "累": {
+        "num_readings": 3,
+        "precision": 0.9375,
+        "recall": 0.95,
+        "f1": 0.9403508771929825
+    },
+    "薈": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蕞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "植": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "譜": {
+        "num_readings": 2,
+        "precision": 0.95,
+        "recall": 0.9,
+        "f1": 0.9181286549707601
+    },
+    "碗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "炙": {
+        "num_readings": 2,
+        "precision": 0.9285714285714286,
+        "recall": 0.75,
+        "f1": 0.7948717948717949
+    },
+    "領": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "臊": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "摸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "綵": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "校": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "桁": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "針": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "般": {
+        "num_readings": 3,
+        "precision": 0.9111111111111111,
+        "recall": 0.7333333333333334,
+        "f1": 0.7264957264957266
+    },
+    "梵": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1": 0.7333333333333334
+    },
+    "芃": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "賽": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "黄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "睢": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "踣": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "焜": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嬋": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1": 0.7333333333333334
+    },
+    "握": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "曨": {
+        "num_readings": 2,
+        "precision": 0.2777777777777778,
+        "recall": 0.5,
+        "f1": 0.35714285714285715
+    },
+    "齧": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "壚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "魄": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "耶": {
+        "num_readings": 3,
+        "precision": 0.6413043478260869,
+        "recall": 0.5570175438596491,
+        "f1": 0.5535714285714286
+    },
+    "示": {
+        "num_readings": 2,
+        "precision": 0.4714285714285714,
+        "recall": 0.5,
+        "f1": 0.4852941176470588
+    },
+    "蟬": {
+        "num_readings": 2,
+        "precision": 0.4861111111111111,
+        "recall": 0.5,
+        "f1": 0.49295774647887325
+    },
+    "壓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "弔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "醪": {
+        "num_readings": 3,
+        "precision": 0.6153846153846154,
+        "recall": 0.4166666666666667,
+        "f1": 0.45999999999999996
+    },
+    "倩": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "岷": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "旖": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "旎": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "繅": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瓮": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "禁": {
+        "num_readings": 3,
+        "precision": 0.5566666666666666,
+        "recall": 0.6143589743589745,
+        "f1": 0.5825287356321839
+    },
+    "芋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "俏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "殷": {
+        "num_readings": 3,
+        "precision": 0.4807692307692308,
+        "recall": 0.5,
+        "f1": 0.49019607843137253
+    },
+    "否": {
+        "num_readings": 3,
+        "precision": 0.391812865497076,
+        "recall": 0.46296296296296297,
+        "f1": 0.4216216216216216
+    },
+    "嘯": {
+        "num_readings": 2,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "宗": {
+        "num_readings": 2,
+        "precision": 0.4634146341463415,
+        "recall": 0.5,
+        "f1": 0.4810126582278481
+    },
+    "擁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "污": {
+        "num_readings": 2,
+        "precision": 0.46153846153846156,
+        "recall": 0.5,
+        "f1": 0.48
+    },
+    "盧": {
+        "num_readings": 2,
+        "precision": 0.9375,
+        "recall": 0.9,
+        "f1": 0.9111111111111111
+    },
+    "掉": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蟻": {
+        "num_readings": 2,
+        "precision": 0.2857142857142857,
+        "recall": 0.5,
+        "f1": 0.36363636363636365
+    },
+    "噲": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "爆": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "符": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "儘": {
+        "num_readings": 3,
+        "precision": 0.8571428571428572,
+        "recall": 0.75,
+        "f1": 0.75
+    },
+    "藐": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "殯": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "閃": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "趣": {
+        "num_readings": 2,
+        "precision": 0.4722222222222222,
+        "recall": 0.5,
+        "f1": 0.4857142857142857
+    },
+    "揣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "兔": {
+        "num_readings": 2,
+        "precision": 0.4827586206896552,
+        "recall": 0.4827586206896552,
+        "f1": 0.4827586206896552
+    },
+    "鬱": {
+        "num_readings": 2,
+        "precision": 0.4583333333333333,
+        "recall": 0.4782608695652174,
+        "f1": 0.46808510638297873
+    },
+    "蜒": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "紆": {
+        "num_readings": 2,
+        "precision": 0.875,
+        "recall": 0.9285714285714286,
+        "f1": 0.8901098901098901
+    },
+    "磅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "操": {
+        "num_readings": 2,
+        "precision": 0.9212121212121211,
+        "recall": 0.9212121212121211,
+        "f1": 0.9212121212121211
+    },
+    "迤": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "鮑": {
+        "num_readings": 3,
+        "precision": 0.3,
+        "recall": 0.5,
+        "f1": 0.375
+    },
+    "率": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "政": {
+        "num_readings": 2,
+        "precision": 0.47368421052631576,
+        "recall": 0.5,
+        "f1": 0.4864864864864865
+    },
+    "矢": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "刃": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "慟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "餌": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.8333333333333333,
+        "f1": 0.7333333333333334
+    },
+    "澆": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "絆": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "欹": {
+        "num_readings": 2,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "員": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嘔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "啞": {
+        "num_readings": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "鍛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "裨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "祇": {
+        "num_readings": 3,
+        "precision": 0.9375,
+        "recall": 0.9166666666666667,
+        "f1": 0.9212121212121211
+    },
+    "僅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "颼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "繳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鞅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "俳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "菟": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蔔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "畬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "儂": {
+        "num_readings": 2,
+        "precision": 0.675,
+        "recall": 0.6473684210526316,
+        "f1": 0.6581196581196581
+    },
+    "抵": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "砌": {
+        "num_readings": 2,
+        "precision": 0.9615384615384616,
+        "recall": 0.75,
+        "f1": 0.8133333333333332
+    },
+    "伺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "挈": {
+        "num_readings": 3,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "渥": {
+        "num_readings": 2,
+        "precision": 0.8571428571428572,
+        "recall": 0.75,
+        "f1": 0.75
+    },
+    "稠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "反": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "簌": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "輟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "櫂": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "崔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "濺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蹉": {
+        "num_readings": 2,
+        "precision": 0.7,
+        "recall": 0.7083333333333333,
+        "f1": 0.696969696969697
+    },
+    "倡": {
+        "num_readings": 2,
+        "precision": 0.45,
+        "recall": 0.5,
+        "f1": 0.47368421052631576
+    },
+    "蔭": {
+        "num_readings": 2,
+        "precision": 0.9285714285714286,
+        "recall": 0.9166666666666667,
+        "f1": 0.916083916083916
+    },
+    "极": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "榴": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "卄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鋪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "惰": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "葦": {
+        "num_readings": 2,
+        "precision": 0.7738095238095238,
+        "recall": 0.7738095238095238,
+        "f1": 0.7692307692307693
+    },
+    "恣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "漂": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "杵": {
+        "num_readings": 2,
+        "precision": 0.34615384615384615,
+        "recall": 0.5,
+        "f1": 0.4090909090909091
+    },
+    "諒": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "祿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "杻": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蕃": {
+        "num_readings": 3,
+        "precision": 0.6666666666666666,
+        "recall": 0.5555555555555555,
+        "f1": 0.6
+    },
+    "駝": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "旋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "署": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "萃": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "餓": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.25,
+        "f1": 0.25
+    },
+    "馮": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "淄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "尹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "亮": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "頂": {
+        "num_readings": 2,
+        "precision": 0.7662337662337663,
+        "recall": 0.7628205128205128,
+        "f1": 0.7596153846153846
+    },
+    "磷": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "緇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "胝": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "姝": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "帯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "遁": {
+        "num_readings": 2,
+        "precision": 0.4444444444444444,
+        "recall": 0.5,
+        "f1": 0.47058823529411764
+    },
+    "撞": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "潦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "詒": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "蚯": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "耗": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "挾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "竄": {
+        "num_readings": 2,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "茗": {
+        "num_readings": 2,
+        "precision": 0.9166666666666667,
+        "recall": 0.75,
+        "f1": 0.7878787878787878
+    },
+    "壘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "攔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "衡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瑚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "填": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "塹": {
+        "num_readings": 2,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "害": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "脂": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "箭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "咍": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "皎": {
+        "num_readings": 3,
+        "precision": 0.9523809523809524,
+        "recall": 0.75,
+        "f1": 0.7743589743589744
+    },
+    "獵": {
+        "num_readings": 2,
+        "precision": 0.875,
+        "recall": 0.9736842105263157,
+        "f1": 0.915057915057915
+    },
+    "霍": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蔡": {
+        "num_readings": 2,
+        "precision": 0.9166666666666667,
+        "recall": 0.75,
+        "f1": 0.7878787878787878
+    },
+    "阿": {
+        "num_readings": 2,
+        "precision": 0.49074074074074076,
+        "recall": 0.5,
+        "f1": 0.4953271028037383
+    },
+    "覆": {
+        "num_readings": 2,
+        "precision": 0.6260504201680672,
+        "recall": 0.6041666666666666,
+        "f1": 0.6117424242424243
+    },
+    "碾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鈿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "墅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "靡": {
+        "num_readings": 4,
+        "precision": 0.1818181818181818,
+        "recall": 0.3333333333333333,
+        "f1": 0.23529411764705885
+    },
+    "爺": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "梭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "洽": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "洿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "暝": {
+        "num_readings": 2,
+        "precision": 0.45454545454545453,
+        "recall": 0.5,
+        "f1": 0.47619047619047616
+    },
+    "撿": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "晏": {
+        "num_readings": 2,
+        "precision": 0.7333333333333334,
+        "recall": 0.7333333333333334,
+        "f1": 0.7333333333333334
+    },
+    "汙": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "墟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "篦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "丞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "冱": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "嶼": {
+        "num_readings": 3,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "悄": {
+        "num_readings": 2,
+        "precision": 0.4444444444444444,
+        "recall": 0.5,
+        "f1": 0.47058823529411764
+    },
+    "縹": {
+        "num_readings": 2,
+        "precision": 0.875,
+        "recall": 0.9,
+        "f1": 0.873015873015873
+    },
+    "緲": {
+        "num_readings": 2,
+        "precision": 0.3,
+        "recall": 0.5,
+        "f1": 0.375
+    },
+    "裊": {
+        "num_readings": 2,
+        "precision": 0.8333333333333334,
+        "recall": 0.7976190476190477,
+        "f1": 0.8119122257053292
+    },
+    "準": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "罹": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.6666666666666666,
+        "f1": 0.5833333333333333
+    },
+    "咎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "愴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "繇": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鐺": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "黮": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "睞": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "辟": {
+        "num_readings": 3,
+        "precision": 0.2222222222222222,
+        "recall": 0.2222222222222222,
+        "f1": 0.2222222222222222
+    },
+    "檐": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "煎": {
+        "num_readings": 2,
+        "precision": 0.4583333333333333,
+        "recall": 0.5,
+        "f1": 0.4782608695652174
+    },
+    "孥": {
+        "num_readings": 2,
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1": 0.625
+    },
+    "探": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "彊": {
+        "num_readings": 3,
+        "precision": 0.6111111111111112,
+        "recall": 0.6666666666666666,
+        "f1": 0.6363636363636364
+    },
+    "貉": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "歐": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "捶": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "幕": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "椽": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "糞": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "宛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鱉": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "番": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蘸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "涇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "槿": {
+        "num_readings": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.6666666666666666
+    },
+    "碌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "盾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "沁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "窿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "浹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "籤": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "瀘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "泄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "價": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "撐": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1": 0.7333333333333334
+    },
+    "凍": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瀁": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "敦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "妄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "栖": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "湮": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "樸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "峙": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "崙": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "綢": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "籟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "癖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "坷": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "沴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "芬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "褐": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.4,
+        "f1": 0.4
+    },
+    "霎": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "菹": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "跂": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "跳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "刺": {
+        "num_readings": 2,
+        "precision": 0.84375,
+        "recall": 0.8697478991596639,
+        "f1": 0.8545454545454545
+    },
+    "欸": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "甸": {
+        "num_readings": 2,
+        "precision": 0.3888888888888889,
+        "recall": 0.5,
+        "f1": 0.4375
+    },
+    "旰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "睇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "衿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "斃": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "捎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "慰": {
+        "num_readings": 2,
+        "precision": 0.8109243697478992,
+        "recall": 0.8083333333333333,
+        "f1": 0.80625
+    },
+    "揭": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "羯": {
+        "num_readings": 2,
+        "precision": 0.4375,
+        "recall": 0.5,
+        "f1": 0.4666666666666667
+    },
+    "薦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "掞": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "傘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "慵": {
+        "num_readings": 3,
+        "precision": 0.46875,
+        "recall": 0.5,
+        "f1": 0.4838709677419355
+    },
+    "厲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蔚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "龜": {
+        "num_readings": 3,
+        "precision": 0.4666666666666667,
+        "recall": 0.5,
+        "f1": 0.4827586206896552
+    },
+    "萎": {
+        "num_readings": 3,
+        "precision": 0.4166666666666667,
+        "recall": 0.6666666666666666,
+        "f1": 0.4666666666666666
+    },
+    "軺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "召": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蛩": {
+        "num_readings": 2,
+        "precision": 0.7090909090909091,
+        "recall": 0.7090909090909091,
+        "f1": 0.7090909090909091
+    },
+    "疋": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "潘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "麗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "逾": {
+        "num_readings": 2,
+        "precision": 0.45,
+        "recall": 0.5,
+        "f1": 0.47368421052631576
+    },
+    "獼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "薀": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "曩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "据": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "拼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "躋": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "窅": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "杷": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蹙": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "崎": {
+        "num_readings": 2,
+        "precision": 0.8,
+        "recall": 0.75,
+        "f1": 0.7083333333333333
+    },
+    "奄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "窠": {
+        "num_readings": 3,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "喂": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "拊": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "紉": {
+        "num_readings": 2,
+        "precision": 0.3,
+        "recall": 0.5,
+        "f1": 0.375
+    },
+    "椅": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "倅": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "侖": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.8333333333333333,
+        "f1": 0.7333333333333334
+    },
+    "帖": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "帥": {
+        "num_readings": 3,
+        "precision": 0.9444444444444445,
+        "recall": 0.9333333333333332,
+        "f1": 0.9326599326599326
+    },
+    "揖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "捻": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "驃": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "唏": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "愾": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "觜": {
+        "num_readings": 3,
+        "precision": 0.2222222222222222,
+        "recall": 0.2222222222222222,
+        "f1": 0.2222222222222222
+    },
+    "覷": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "罝": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "槊": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "蛺": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "亹": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "敖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "桔": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "佑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "盼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "臬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "幰": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "羑": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "焰": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "愜": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "鱸": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.9166666666666667,
+        "f1": 0.8545454545454545
+    },
+    "傅": {
+        "num_readings": 2,
+        "precision": 0.42857142857142855,
+        "recall": 0.5,
+        "f1": 0.46153846153846156
+    },
+    "汨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "佗": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "鉛": {
+        "num_readings": 2,
+        "precision": 0.35714285714285715,
+        "recall": 0.5,
+        "f1": 0.4166666666666667
+    },
+    "褰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "遥": {
+        "num_readings": 2,
+        "precision": 0.3888888888888889,
+        "recall": 0.5,
+        "f1": 0.4375
+    },
+    "囿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "浼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "甯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "欻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "膻": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+    },
+    "罘": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "靖": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "粲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "迦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鬆": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "椿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "些": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "槳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "筮": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "喝": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "袈": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "兌": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "郁": {
+        "num_readings": 2,
+        "precision": 0.8125,
+        "recall": 0.7,
+        "f1": 0.6703296703296704
+    },
+    "蘢": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "晻": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "廿": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蔣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "舖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "寤": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "圜": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "褪": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嵌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "奧": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.875,
+        "f1": 0.8285714285714285
+    },
+    "廂": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "颭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "雊": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "啾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "榼": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "腔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "烜": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "柘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "帙": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "耜": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "衹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "摇": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "娉": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "丑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "廌": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "煬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "屺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "哺": {
+        "num_readings": 2,
+        "precision": 0.7857142857142857,
+        "recall": 0.625,
+        "f1": 0.5636363636363637
+    },
+    "蓑": {
+        "num_readings": 3,
+        "precision": 0.24242424242424243,
+        "recall": 0.3333333333333333,
+        "f1": 0.2807017543859649
+    },
+    "矮": {
+        "num_readings": 3,
+        "precision": 0.39999999999999997,
+        "recall": 0.6666666666666666,
+        "f1": 0.4444444444444444
+    },
+    "柁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蠡": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "箕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "忡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "猗": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "溉": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "匝": {
+        "num_readings": 2,
+        "precision": 0.625,
+        "recall": 0.6333333333333333,
+        "f1": 0.6190476190476191
+    },
+    "逮": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "茆": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "滻": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "嫋": {
+        "num_readings": 3,
+        "precision": 0.5555555555555555,
+        "recall": 0.6666666666666666,
+        "f1": 0.6
+    },
+    "郢": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "矗": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "錐": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "搏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "膾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "獰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瀧": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "醯": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "倭": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "髭": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "偸": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "戾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "牟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "簇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "婁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "邱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "廓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "霰": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "瞭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "呱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "炳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "呀": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "舫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "噫": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "梗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "雍": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "扳": {
+        "num_readings": 3,
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1": 0.3333333333333333
+    },
+    "顥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "廳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嚥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "掀": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "絜": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "簑": {
+        "num_readings": 2,
+        "precision": 0.625,
+        "recall": 0.625,
+        "f1": 0.625
+    },
+    "允": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "澡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "暾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "暍": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "垓": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "羸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鐃": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "寔": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "吒": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "熠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "飆": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "圞": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "穰": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "筇": {
+        "num_readings": 2,
+        "precision": 0.65,
+        "recall": 0.65,
+        "f1": 0.65
+    },
+    "潁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "擠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "簿": {
+        "num_readings": 3,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "瘥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "邛": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "蜻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "笱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "岭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "掣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "醞": {
+        "num_readings": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "荐": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "佔": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "棣": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "純": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "膩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "懦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "毗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "締": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "彙": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "駙": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蠆": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "喙": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "臧": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蟣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "緬": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鍼": {
+        "num_readings": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "軋": {
+        "num_readings": 3,
+        "precision": 0.7142857142857143,
+        "recall": 0.7142857142857143,
+        "f1": 0.6
+    },
+    "敎": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+    },
+    "蚩": {
+        "num_readings": 3,
+        "precision": 0.3333333333333333,
+        "recall": 0.19999999999999998,
+        "f1": 0.25
+    },
+    "赬": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "攢": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "橈": {
+        "num_readings": 2,
+        "precision": 0.8181818181818181,
+        "recall": 0.8333333333333333,
+        "f1": 0.788888888888889
+    },
+    "卅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "痾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "扑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鎬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "霹": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "媸": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "浙": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "塲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蜡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "櫳": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "呵": {
+        "num_readings": 2,
+        "precision": 0.3888888888888889,
+        "recall": 0.5,
+        "f1": 0.4375
+    },
+    "帔": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "研": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "徬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "弁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "濆": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "壞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "偓": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "淼": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "崒": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鑽": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "沆": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瀣": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "咀": {
+        "num_readings": 3,
+        "precision": 0.1111111111111111,
+        "recall": 0.3333333333333333,
+        "f1": 0.16666666666666666
+    },
+    "虺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "徼": {
+        "num_readings": 3,
+        "precision": 0.3333333333333333,
+        "recall": 0.2222222222222222,
+        "f1": 0.26666666666666666
+    },
+    "猰": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "苴": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蓼": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "躇": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嚙": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "喔": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "匯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "傭": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "串": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "槍": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "輈": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "壼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "癢": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鎗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "紇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "椎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "隗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "讌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "茨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "撩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "臭": {
+        "num_readings": 2,
+        "precision": 0.3,
+        "recall": 0.5,
+        "f1": 0.375
+    },
+    "創": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "莩": {
+        "num_readings": 3,
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1": 0.3333333333333333
+    },
+    "瞑": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+    },
+    "吃": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.875,
+        "f1": 0.7619047619047619
+    },
+    "阪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "諮": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "裒": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "徯": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "冪": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+    },
+    "楷": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "硃": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蹻": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "帑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "杓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "莎": {
+        "num_readings": 3,
+        "precision": 0.5,
+        "recall": 0.4,
+        "f1": 0.4444444444444444
+    },
+    "媽": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "繰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "屣": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "縕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "澠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "砥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "哨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "廑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "耇": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "坻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "曀": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "擺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "遴": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "慍": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "裯": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "屛": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "将": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "闍": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "磽": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "圈": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "櫟": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "輻": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "柢": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "糾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "殫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "狁": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "腊": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "禿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "頷": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "氐": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "铺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "翱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "芾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "襪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "酇": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "机": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "俜": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "沸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "盻": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+    },
+    "傀": {
+        "num_readings": 4,
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1": 0.6666666666666666
+    },
+    "很": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "騫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "炯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "菑": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "莠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "譏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "媛": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "壅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "拚": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "齟": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "勺": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "粳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "釘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "雹": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "筏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蹬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "戱": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "秩": {
+        "num_readings": 2,
+        "precision": 0.4166666666666667,
+        "recall": 0.5,
+        "f1": 0.45454545454545453
+    },
+    "蕾": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "嶠": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "郤": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "幬": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "猱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "怜": {
+        "num_readings": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "瑰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "篡": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "洎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "熾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "腕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "艘": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.25,
+        "f1": 0.2857142857142857
+    },
+    "擭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "薙": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "埤": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "纍": {
+        "num_readings": 3,
+        "precision": 0.8888888888888888,
+        "recall": 0.8888888888888888,
+        "f1": 0.8666666666666667
+    },
+    "飧": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "阱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "峴": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.375,
+        "f1": 0.42857142857142855
+    },
+    "拯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "怖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嵿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嬈": {
+        "num_readings": 2,
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444
+    },
+    "惕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "湜": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "舶": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "帕": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "濘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "檠": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "扛": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "懽": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "駘": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "呆": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "沮": {
+        "num_readings": 4,
+        "precision": 0.3,
+        "recall": 0.375,
+        "f1": 0.25
+    },
+    "洳": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "橙": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "媲": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "褚": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "跟": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "禺": {
+        "num_readings": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.5
+    },
+    "誄": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "汚": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "狠": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "僥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "褎": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "曼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "埔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "樗": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "瀦": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "凭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瓠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "羶": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "茹": {
+        "num_readings": 2,
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1": 0.7333333333333334
+    },
+    "蹲": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "澣": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "柚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鐙": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "啓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "碣": {
+        "num_readings": 2,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+    },
+    "邅": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "啁": {
+        "num_readings": 3,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+    },
+    "閘": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "獠": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "揲": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "刷": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "搧": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "紊": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "詭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "拌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "丫": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "瓿": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "熨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "哪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "涎": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "祐": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "苕": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "毳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "匼": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "廖": {
+        "num_readings": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.5
+    },
+    "憊": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "澶": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "涬": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "櫬": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "釅": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "孑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "幢": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "徠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "肄": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "澌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "稔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "劄": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "蓊": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "晟": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鴆": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "墊": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "巋": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "黽": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "廁": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "叨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "裸": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "撑": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "眨": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "侏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "攏": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "坯": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "漱": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "岏": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "潏": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "麇": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "惚": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "厎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "澳": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "巑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "掎": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "湔": {
+        "num_readings": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "刊": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "缸": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鴞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "昳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "賚": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "咤": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "忖": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "崟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "昵": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "檗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "徇": {
+        "num_readings": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+    },
+    "擴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "閼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "攫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "莘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "閾": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "鷥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "衎": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "獬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "煨": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "着": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "唫": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蛸": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "赧": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "箐": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蕕": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "溥": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "僩": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "嚮": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "銳": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鑪": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "适": {
+        "num_readings": 2,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+    },
+    "憨": {
+        "num_readings": 3,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "洟": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "噂": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "搭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "舐": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "苖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "渦": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "闞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "嘸": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "穟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "湃": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "洩": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "販": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蒔": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "楛": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "鏞": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "票": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "琊": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鬻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "釭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "駃": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "罣": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "郅": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "剗": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "呻": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "瑾": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "礮": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "妲": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "殄": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "庳": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "酺": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "摻": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "宓": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "慌": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "洙": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "嘒": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蹺": {
+        "num_readings": 2,
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1": 0.6666666666666666
+    },
+    "僂": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "价": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "礦": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "噹": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "晁": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "騂": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "臚": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "傖": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "錘": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "坌": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "醑": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "憧": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "愀": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "悖": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "芼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "恫": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "莞": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鬃": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蹶": {
+        "num_readings": 2,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25
+    },
+    "躩": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "坂": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "踔": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "逈": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "瑱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "韞": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "襢": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "攽": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "汰": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "祟": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "剽": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "偲": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "酎": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "忴": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "攣": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "踠": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蘞": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "异": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "獗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "俛": {
+        "num_readings": 2,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "夠": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "蜚": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "揩": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "睜": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "扠": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鮭": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "顫": {
+        "num_readings": 3,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333
+    },
+    "摭": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "飫": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "趼": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "荑": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "桿": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鶗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "僶": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "朓": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "棬": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "勖": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "咱": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鋭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "鏟": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "戇": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "嚭": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "带": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "脯": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "訐": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "搶": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "勗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "弥": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "确": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "纕": {
+        "num_readings": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "跗": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鬵": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "戔": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "鞞": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "蠋": {
+        "num_readings": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "陜": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    },
+    "胜": {
+        "num_readings": 2,
+        "precision": NaN,
+        "recall": NaN,
+        "f1": NaN
+    }
+}
