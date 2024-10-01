@@ -12,6 +12,7 @@ model_config:
   num_spelling_threshold: 7
   train_bert_param: True
   num_heads: 8
+  num_blks: 6
   dropout: 0.1
 
 data_config:
