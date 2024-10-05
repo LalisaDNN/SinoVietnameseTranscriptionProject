@@ -81,7 +81,7 @@ def plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_f
     plt.savefig(os.path.join(save_dir, f'training_metrics_{last_epoch}.pdf'))
     plt.show()
 
-config_path = "conf_5"
+config_path = "conf_6_new"
 
 train_losses, test_losses, test_accuracies, test_wers = load_training_log(config_path)
 plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_path)
