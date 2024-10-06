@@ -2,8 +2,10 @@ import matplotlib.pyplot as plt
 import os
 import numpy as np
 
+config_path = "conf_6_new"
+num_epochs = 40
 
-def load_training_log(config_folder_dir):
+def load_training_log(config_folder_dir, num_epochs):
     log_dir = os.path.join(config_folder_dir, f"running/")
 
     train_losses = []
@@ -31,7 +33,7 @@ def load_training_log(config_folder_dir):
         test_wers = test_wers[:-1]
         test_wers = np.array(test_wers,dtype=float)
 
-    return train_losses, test_losses, test_accuracies, test_wers
+    return train_losses[:num_epochs], test_losses[:num_epochs], test_accuracies[:num_epochs], test_wers[:num_epochs]
 
 def plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_folder_dir):
     epochs = range(1, len(train_losses) + 1)
@@ -81,7 +83,6 @@ def plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_f
     plt.savefig(os.path.join(save_dir, f'training_metrics_{last_epoch}.pdf'))
     plt.show()
 
-config_path = "conf_6_new"
 
-train_losses, test_losses, test_accuracies, test_wers = load_training_log(config_path)
+train_losses, test_losses, test_accuracies, test_wers = load_training_log(config_path, num_epochs)
 plot_metrics(train_losses, test_losses, test_accuracies, test_wers, config_path)
