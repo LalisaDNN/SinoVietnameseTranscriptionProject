@@ -3,8 +3,8 @@ import os
 import numpy as np
 
 #############################################
-config_path = "conf_7_new"
-num_epochs = 22
+config_path = "conf_8_new"
+num_epochs = 80
 #############################################
 
 def load_training_log(config_folder_dir, num_epochs):
