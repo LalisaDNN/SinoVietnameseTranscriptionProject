@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 #############################################
-config_path = "conf_8_new"
+config_path = "conf_9_new"
 num_epochs = 80
 #############################################
 

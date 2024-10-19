@@ -1,0 +1,24 @@
+model_config:
+  # google-bert/bert-base-chinese
+  # google-bert/bert-base-multilingual-cased
+  torch_dtype: torch.float16
+  bert_model: google-bert/bert-base-chinese
+  hidden_ff_dim: 1024
+  shrink_norm_hidden: 512
+  model_hidden_dim: 256 # d_model
+  head_hidden_dim: 128
+  max_num_spellings: 7
+  train_bert_param: True
+  num_heads: 4
+  num_blks: 2
+  dropout: 0.1
+  use_gelu: True
+
+data_config:
+  batch_size: 16
+  max_len: 512
+
+training_config:
+  num_epochs: 80
+  learning_rate: 0.00001
+  model_load_path: None
