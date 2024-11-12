@@ -21,4 +21,4 @@ data_config:
 training_config:
   num_epochs: 80
   learning_rate: 0.00001
-  model_load_path: None
+  model_load_path: D:\dnn\NewModel\SinoVietnameseTranscriptionProject\conf_12\running\saved_model\sivi_model_epoch_7.pt
