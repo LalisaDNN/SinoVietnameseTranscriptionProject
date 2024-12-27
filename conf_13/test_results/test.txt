@@ -1,0 +1,3 @@
+Test accuracy: 0.9552703779095495
+Test WER: 0.012986612534368013
+Total number of characters: 194585

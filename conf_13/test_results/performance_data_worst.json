@@ -1,0 +1,122 @@
+[
+    {
+        "char": "魑",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 27,
+        "test_appearance": 3,
+        "num_readings": 2
+    },
+    {
+        "char": "賁",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 16,
+        "test_appearance": 4,
+        "num_readings": 3
+    },
+    {
+        "char": "宏",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 46,
+        "test_appearance": 1,
+        "num_readings": 2
+    },
+    {
+        "char": "撚",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 22,
+        "test_appearance": 5,
+        "num_readings": 5
+    },
+    {
+        "char": "鯁",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 10,
+        "test_appearance": 1,
+        "num_readings": 2
+    },
+    {
+        "char": "坏",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 11,
+        "test_appearance": 1,
+        "num_readings": 4
+    },
+    {
+        "char": "齧",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 13,
+        "test_appearance": 1,
+        "num_readings": 2
+    },
+    {
+        "char": "爆",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 17,
+        "test_appearance": 1,
+        "num_readings": 2
+    },
+    {
+        "char": "嘔",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 21,
+        "test_appearance": 1,
+        "num_readings": 2
+    },
+    {
+        "char": "啞",
+        "metrics": {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+        },
+        "train_appearance": 41,
+        "test_appearance": 1,
+        "num_readings": 4
+    }
+]

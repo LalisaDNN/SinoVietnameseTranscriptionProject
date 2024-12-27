@@ -1,0 +1,62 @@
+[
+    {
+        "char": "中",
+        "metrics": {
+            "accuracy": 0.9977142857142857,
+            "precision": 0.9977195462765084,
+            "recall": 0.9977142857142857,
+            "f1": 0.9975523370638579
+        },
+        "train_appearance": 7825,
+        "test_appearance": 875,
+        "num_readings": 2
+    },
+    {
+        "char": "其",
+        "metrics": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "train_appearance": 8886,
+        "test_appearance": 994,
+        "num_readings": 2
+    },
+    {
+        "char": "有",
+        "metrics": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "train_appearance": 9596,
+        "test_appearance": 1089,
+        "num_readings": 2
+    },
+    {
+        "char": "山",
+        "metrics": {
+            "accuracy": 0.9501385041551247,
+            "precision": 0.9446557672047275,
+            "recall": 0.9501385041551247,
+            "f1": 0.945579301996497
+        },
+        "train_appearance": 12598,
+        "test_appearance": 1444,
+        "num_readings": 2
+    },
+    {
+        "char": "不",
+        "metrics": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+        },
+        "train_appearance": 17657,
+        "test_appearance": 2032,
+        "num_readings": 3
+    }
+]
